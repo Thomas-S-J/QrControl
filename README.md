@@ -33,7 +33,7 @@ This project aims to create a mobile application where shopkeepers have an app t
 - Shops would be able to view all customers who viisited on a given day.
 - Users can edit their profile info.
 
-Schedule planned:
+## Schedule planned:
 
 `16/5`
 - go through flutter basics (#1 and #2)
